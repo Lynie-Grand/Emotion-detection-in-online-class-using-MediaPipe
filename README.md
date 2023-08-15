@@ -23,4 +23,4 @@ are carried out on our dataset. To estimate and compare the obtained results for
 approaches the source image is contrived manually. Average diversions of the detected
 landmarks from the source are estimated. The comparison shows that a little better precision and
 effectiveness of the facial landmark detection is achieved using the deep learning-based
-approach.
+approach
